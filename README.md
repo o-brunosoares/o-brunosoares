@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bruno Soares Ferreira
 
  <div>
    <a href="https://github.com/o-brunosoares">
