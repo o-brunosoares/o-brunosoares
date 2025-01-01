@@ -1,4 +1,4 @@
-## Bruno Soares Ferreira
+# Bruno Soares Ferreira
 
  <div>
    <a href="https://github.com/o-brunosoares">
